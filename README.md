@@ -1,2 +1,2 @@
-# Sistem-pakar
-website diagnosa komputer
+# Sistem Pakar
+ pembuatan website sistem pakar
